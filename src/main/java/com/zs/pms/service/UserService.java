@@ -39,4 +39,7 @@ public interface UserService {
 	
 	//根据主键读取
 	public Tuser queryById(int id);
+	
+	
+	
 }
